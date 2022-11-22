@@ -61,6 +61,8 @@ python3 nexus_docker_images_cleaner.py -r smth_repo_name -i smth_image_name -d 7
 
 ``` 
 Example images:
+![image](https://user-images.githubusercontent.com/97760794/203302375-7f1e739d-5e36-4e44-9d49-8a725bbcdca5.png)
+
 
 
 ```
