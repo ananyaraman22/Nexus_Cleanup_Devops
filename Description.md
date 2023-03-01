@@ -29,6 +29,7 @@ We did all the necessary changes such as port, username, password in the file.
 
 After running these commands as we saw it got deleted: but when we'll see the nexus repository, it will not have got deleted from there. 
 So, for that we need to create task on the nexus:
+
 ![image](https://user-images.githubusercontent.com/97760794/222100776-5278f8d8-f879-4933-8e17-0ff490a8ae63.png)
 ![image](https://user-images.githubusercontent.com/97760794/222100876-b50f9023-d10f-4c93-8de9-f316be3efbf2.png)
 
